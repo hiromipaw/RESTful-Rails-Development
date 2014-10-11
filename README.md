@@ -14,3 +14,7 @@ https://github.com/hiromipaw/wikicat
 Geographically tagged Wikipedia articles - WIKIPINS 
 
 https://github.com/hiromipaw/wikipin
+
+Citywalks API
+ 
+https://github.com/hiromipaw/citywalks
