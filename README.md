@@ -18,3 +18,7 @@ https://github.com/hiromipaw/wikipin
 Citywalks API
  
 https://github.com/hiromipaw/citywalks
+
+Ember Walks
+
+https://github.com/hiromipaw/walks
