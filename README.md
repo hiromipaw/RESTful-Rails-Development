@@ -11,6 +11,10 @@ Category Graph API - WIKICAT
 
 https://github.com/hiromipaw/wikicat
 
+LocalPic
+
+https://github.com/hiromipaw/localpic
+
 Geographically tagged Wikipedia articles - WIKIPINS 
 
 https://github.com/hiromipaw/wikipin
